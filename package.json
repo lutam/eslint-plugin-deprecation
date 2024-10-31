@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-deprecation",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "description": "ESLint rule that reports usage of deprecated code",
   "license": "LGPL-3.0-or-later",
   "repository": {
@@ -28,7 +28,7 @@
     "ts-api-utils": "^1.3.0"
   },
   "peerDependencies": {
-    "eslint": "^8.0.0",
+    "eslint": "^9.0.0",
     "typescript": "^4.2.4 || ^5.0.0"
   },
   "devDependencies": {
